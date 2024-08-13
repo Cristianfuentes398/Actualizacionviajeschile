@@ -1,0 +1,24 @@
+// abstracts/
+// vendors/
+// base/
+// layout/
+// components/
+// pages/
+// themes/
+
+@import '../../node_modules/bootstrap/scss/bootstrap';
+@import 'abstracts/variables';
+@import 'base/base';
+@import 'base/typography';
+
+@import 'layout/header';
+@import 'layout/aboutus';
+@import 'layout/featured';
+@import 'layout/contact';
+
+
+
+
+
+
+
